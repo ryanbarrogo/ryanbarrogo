@@ -69,12 +69,12 @@ I'm a passionate software engineer specializing in **Vue.js** and **Laravel**, w
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryanbarrogo&theme=tokyonight" alt="Profile Summary" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ryanbarrogo&style=for-the-badge&color=blue" alt="Profile Views" />
-</p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ryanbarrogo/ryanbarrogo/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ryanbarrogo/ryanbarrogo/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ryanbarrogo/ryanbarrogo/output/github-contribution-grid-snake.svg">
 </picture>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ryanbarrogo&style=for-the-badge&color=blue" alt="Profile Views" />
+</p>
