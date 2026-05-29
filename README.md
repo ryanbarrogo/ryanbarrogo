@@ -4,6 +4,8 @@
 
 [![Vue.js Senior Certificate](https://img.shields.io/badge/Official_Vue.js_Certified-Senior-10B981?style=for-the-badge&logo=vuedotjs&logoColor=white&labelColor=065F46)](https://certificates.dev/vuejs/certificates/9f67c207-5162-4925-9e79-4bb97afd5ff1)
 
+[![Vue.js Mid-Level Certificate](https://img.shields.io/badge/Official_Vue.js_Certified-Mid--Level-10B981?style=for-the-badge&logo=vuedotjs&logoColor=white&labelColor=065F46)](https://certificates.dev/vuejs/certificates/9f6308dd-3ba5-4568-8ac2-e1c6d2f186ab)
+
 
 ---
 
